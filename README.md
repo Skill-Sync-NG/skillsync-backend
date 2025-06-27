@@ -43,7 +43,7 @@ SkillSync is an AI-powered backend API that helps job seekers match their resume
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd airesumejobmatchingapi-5g56kf
+   cd skillsync-backend
    ```
 
 2. **Install dependencies**
