@@ -1,3 +1,8 @@
+![CI](https://github.com/Skill-Sync-NG/skillsync-backend/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/github/v/release/Skill-Sync-NG/skillsync-backend)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+
 # SkillSync - AI Resume & Job Match Hub
 
 SkillSync is an AI-powered backend API that helps job seekers match their resumes with job descriptions, provides skill gap analysis, resume improvement suggestions, and generates personalized cover letters. It also includes a recruiter dashboard for candidate ranking and management.
